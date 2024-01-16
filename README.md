@@ -102,7 +102,6 @@ You don't have to submit the code on D2L. Note that you still have to submit the
 
 # Grading
 
-
 Question 5 of this assignment will be graded primarily on their ability to pass the tests that
 have been provided to you on GitHub after the pull request.
 Assignments that pass all, and with the corresponding code implementing the correct logic, will receive at least 95% of the
