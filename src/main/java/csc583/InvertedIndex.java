@@ -22,16 +22,16 @@ public class InvertedIndex {
     }
 
     public String[] runQ5_1(String query) throws java.io.FileNotFoundException,java.io.IOException {
-        String[] dummy_ans = {"Doc1","Doc4"};
+        String[] dummy_ans = null;
         return dummy_ans;
     }
 
     public String[] runQ5_2(String query) throws java.io.FileNotFoundException,java.io.IOException {
-        String[] dummy_ans = {"Doc1","Doc2","Doc3","Doc4"};
+        String[] dummy_ans = null;
         return dummy_ans;
     }
     public String[] runQ5_3(String query) throws java.io.FileNotFoundException,java.io.IOException {
-        String[] dummy_ans = {"Doc1","Doc2","Doc4"};
+        String[] dummy_ans = null;
         return dummy_ans;
     }
 
