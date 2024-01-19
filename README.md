@@ -33,14 +33,14 @@ the class `InvertedIndex`. These functions should return the documents as asked 
 Also, you **should not edit** these files:
 - `.github/workflows/run-tests-on-pull.yml`
 - `src/main/resources/Docs.txt`
-- `src/test/java/edu/arizona/cs/TestQ5.java`
+- `src/test/java/csc583/TestQ5.java`
 
 **Note: The file `src/main/resources/Docs.txt` is the input file you must use (or would have started using) as per hw3 guidelines. Please don't edit it.**
 
 
 # Test your code
 
-Tests have been provided for you in the `src/test/java/edu/arizona/cs/test_q5.java` file.
+Tests have been provided for you in the `src/test/java/csc583/TestQ5.java` file.
 To run all the provided tests, run the ``mvn test`` script from the top project directory which contains a file named `pom.xml`
 
 If your code passes the test case, you will see an output similar to:
