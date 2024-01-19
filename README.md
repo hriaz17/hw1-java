@@ -98,7 +98,7 @@ click on the link which says `details` and find out what is causing the issue or
 
 Your instructor will grade the code off this pull request. 
 Pull requests submitted after the deadline won’t be considered.
-You don't have to submit the code on D2L. Note that you still have to submit the answers to questions 1 to 4 on D2L.
+You don't have to submit the code on Gradescope. Note that you still have to submit the answers to questions 1 to 4 on Gradescope.
 
 # Grading
 
