@@ -31,11 +31,11 @@ You will implement one function each for each of the 4 qns, Eg:`runQ5_1()` insid
 the class `InvertedIndex`. These functions should return the documents as asked in the question, as a String array. 
 
 Also, you **should not edit** these files:
-- `.travis.yml`
-- `src/test/resources/Docs.txt`
+- `.github/workflows/run-tests-on-pull.yml`
+- `src/main/resources/Docs.txt`
 - `src/test/java/edu/arizona/cs/TestQ5.java`
 
-**Note: The file `src/test/resources/Docs.txt` is the input file you must use (or would have started using) as per hw3 guidelines. Please don't edit it.**
+**Note: The file `src/main/resources/Docs.txt` is the input file you must use (or would have started using) as per hw3 guidelines. Please don't edit it.**
 
 
 # Test your code
@@ -81,7 +81,7 @@ where the "base" branch is "master", and the "compare" branch is the branch you
 created at the beginning of this assignment.
 Then go to the "Files changed" tab, and make sure that all your changes look as you would expect them
 to.
-There are test cases that will be run automatically (via., [travis](https://travis-ci.com/))
+There are test cases that will be run automatically (via., [Github Actions](https://github.com/features/actions))
 when a pull request is submitted. 
 These are the same as `mvn test`. 
 So if your code passed `mvn test` in your machine, 
